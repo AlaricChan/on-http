@@ -1,4 +1,4 @@
-on-http (2.267.0) UNRELEASED; urgency=low
+on-http (2.268.0) UNRELEASED; urgency=low
 
   * Initial release
   * release 1.0.0
@@ -272,5 +272,6 @@ on-http (2.267.0) UNRELEASED; urgency=low
   * release 2.265.0
   * release 2.266.0
   * release 2.267.0
+  * release 2.268.0
 
- -- rackhd <rackhd@emc.com>  Thu, 26 Apr 2018 07:28:13 +0000
+ -- rackhd <rackhd@emc.com>  Thu, 26 Apr 2018 11:29:18 +0000
